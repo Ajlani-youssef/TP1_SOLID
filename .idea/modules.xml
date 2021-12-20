@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DIP/src/DIP.iml" filepath="$PROJECT_DIR$/DIP/src/DIP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DIP/DIP1.iml" filepath="$PROJECT_DIR$/DIP/DIP1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ISP/ISP.iml" filepath="$PROJECT_DIR$/ISP/ISP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ISP/src/ISP1.iml" filepath="$PROJECT_DIR$/ISP/src/ISP1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LSP/src/LSP.iml" filepath="$PROJECT_DIR$/LSP/src/LSP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LSP/LSP1.iml" filepath="$PROJECT_DIR$/LSP/LSP1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OCP/src/OCP.iml" filepath="$PROJECT_DIR$/OCP/src/OCP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OCP/OCP1.iml" filepath="$PROJECT_DIR$/OCP/OCP1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SRP/src/SRP.iml" filepath="$PROJECT_DIR$/SRP/src/SRP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SRP/SRP1.iml" filepath="$PROJECT_DIR$/SRP/SRP1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/TP1 SOLID.iml" filepath="$PROJECT_DIR$/.idea/TP1 SOLID.iml" />
+    </modules>
+  </component>
+</project>
